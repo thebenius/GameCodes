@@ -20,6 +20,7 @@
 ## Codes
 | Level |    Code   |
 | ----- | :-------: |
-| 1     |   BRKBK   |
-| 2     |   KRDKB   |
-| 3     |   RKDDR   |
+| 1     |   BRCBC   |
+| 2     |   CRDCB   |
+| 3     |   RCDDR   |
+| 4     |   BCDRB   |
